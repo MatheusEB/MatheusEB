@@ -35,7 +35,7 @@ programação para transformar trabalho repetitivo em ferramenta.
 Os relatórios das ordens de serviço eram baixados um a um, pelo navegador. Construí um app de desktop que entra
 no sistema em segundo plano e baixa tudo em lote — com interface própria, histórico e reprocessamento das falhas.
 
-📦 **2.000 OS → 2.000 PDFs** organizados numa pasta &nbsp;·&nbsp; ⚡ lotes **~2x mais rápidos** na versão 2.20 &nbsp;·&nbsp; ✅ **270 testes**
+📦 **2.000 OS → 2.000 PDFs** organizados numa pasta &nbsp;·&nbsp; ⚡ lotes **~2x mais rápidos** na versão 2.21 &nbsp;·&nbsp; ✅ **270 testes**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
