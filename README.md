@@ -70,9 +70,9 @@ no sistema em segundo plano e baixa tudo em lote — com interface própria, his
 ### 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusEB/MatheusEB/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusEB/MatheusEB/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/MatheusEB/MatheusEB/output/github-snake-dark.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusEB/MatheusEB/refs/heads/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusEB/MatheusEB/refs/heads/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/MatheusEB/MatheusEB/refs/heads/output/github-snake-dark.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00B8D9&height=120&section=footer" width="100%" alt="">
