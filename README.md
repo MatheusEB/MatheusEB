@@ -1,73 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:7B2FF7&height=220&section=header&text=Matheus%20Eduardo%20Basto&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Suporte%20de%20TI%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Backend&descSize=18&descAlignY=56" width="100%" alt="Matheus Eduardo Basto">
+<img src="assets/banner.svg" width="100%" alt="Matheus Eduardo Basto">
 
-<div align="center">
+Oi, sou o Matheus. Trabalho com suporte de TI e redes: câmera IP, equipamento de rede, configurar e testar
+antes de ir pra campo. Comecei a programar porque tinha tarefa repetitiva demais no dia a dia e dava pra deixar
+o computador fazer.
 
-<a href="https://github.com/MatheusEB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B8D9&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Suporte+de+TI+e+redes;Automa%C3%A7%C3%A3o+com+Python;Estudando+Java+%2B+Spring+Boot;Construindo+interfaces+com+React" alt="Texto digitando">
-</a>
+Hoje escrevo Python pra automatizar coisas do trabalho e estou estudando Java com Spring Boot e React. No tempo
+livre mexo com Raspberry Pi.
 
-<br>
+### o que estou fazendo agora
 
-<a href="https://www.linkedin.com/in/matheus-eduardo-basto-7288a6368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://komarev.com/ghpvc/?username=MatheusEB&color=7B2FF7&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil">
+<img src="assets/missao.svg" width="100%" alt="Painel: Gerador de Relatórios DGT, versão 2.24">
 
-</div>
+Os relatórios das ordens de serviço eram baixados um por um no navegador. Fiz um app de Windows que entra no
+sistema com um Chrome escondido e baixa tudo de uma vez: 2.000 OS viram 2.000 PDFs numa pasta, com histórico e
+reprocessamento do que falhou.
 
----
-
-### 🧑‍💻 Sobre mim
-
-Venho da infraestrutura e do suporte de TI — redes, videomonitoramento IP, configuração de equipamentos — e uso
-programação para transformar trabalho repetitivo em ferramenta.
-
-- 🔧 Automatizo processos internos com **Python**
-- 🌱 Estudando **Java**, **Spring Boot**, **APIs REST** e **React**
-- 🛰️ Mexo com redes, câmeras IP e **Raspberry Pi**
-
-### 🚀 Em destaque
-
-<table>
-<tr>
-<td>
-
-**Gerador de Relatórios DGT** &nbsp;·&nbsp; <sub>app de Windows · uso interno, código privado</sub>
-
-Os relatórios das ordens de serviço eram baixados um a um, pelo navegador. Construí um app de desktop que entra
-no sistema em segundo plano e baixa tudo em lote — com interface própria, histórico e reprocessamento das falhas.
-
-📦 **2.000 OS → 2.000 PDFs** organizados numa pasta &nbsp;·&nbsp; ⚡ lotes **~2x mais rápidos** na versão 2.21 &nbsp;·&nbsp; ✅ **270 testes**
+Na 2.20 o PDF passou a ser gerado no próprio computador e um lote de 48 OS caiu de 32 s pra 15 s. Na 2.24 os
+primeiros 50 PDFs já ficam prontos enquanto a pessoa ainda está revisando a busca. O código é privado porque é
+de uso interno.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=windows&logoColor=white" alt="WebView2">
 
-</td>
-</tr>
-</table>
-
-### 🛠️ Tecnologias
-
-<div align="center">
+### com o que eu mexo
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,js,html,css,react,vite,spring&theme=dark&perline=11" alt="Java, C, C++, C#, Python, JavaScript, HTML5, CSS3, React, Vite, Spring Boot">
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,linux,vscode,idea,raspberrypi&theme=dark&perline=10" alt="PostgreSQL, MySQL, MongoDB, SQLite, Git, GitHub, Linux, VS Code, IntelliJ IDEA, Raspberry Pi">
 
-<sub>🌐 Redes de computadores · 📡 Equipamentos de rede · 📹 Videomonitoramento IP · 🔌 Configuração e testes de dispositivos</sub>
+Fora do código: redes, videomonitoramento IP e configuração de dispositivo.
 
-</div>
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatheusEB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
-<img src="https://streak-stats.demolab.com?user=MatheusEB&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições">
-
-</div>
-
-### 🐍 Contribuições
+### contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusEB/MatheusEB/refs/heads/output/github-snake-dark.svg">
@@ -75,4 +40,6 @@ no sistema em segundo plano e baixa tudo em lote — com interface própria, his
   <img src="https://raw.githubusercontent.com/MatheusEB/MatheusEB/refs/heads/output/github-snake-dark.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00B8D9&height=120&section=footer" width="100%" alt="">
+Pra falar comigo: [LinkedIn](https://www.linkedin.com/in/matheus-eduardo-basto-7288a6368).
+
+<img src="assets/rodape.svg" width="100%" alt="">
